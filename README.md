@@ -6,6 +6,7 @@
 - SVM
 - K-Means
 - PCA
+- Ensemble Methods
 
 
 ## ML Projects/Notebooks
