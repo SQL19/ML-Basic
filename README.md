@@ -7,7 +7,7 @@
 - SVM
 - K-Means
 - PCA
-- Ensemble Methods
+- Ensemble Methods (Bagging, Random Forest, Boosting)
 
 
 ## ML Projects/Notebooks
