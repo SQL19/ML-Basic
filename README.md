@@ -1,7 +1,6 @@
 # ML
 
 ## Implementing Basic ML Algorithms from Scratch
-   Reference: Machine Learning by Andrew Ng
 - Linear Regression
 - Logistic Regression
 - SVM
@@ -11,3 +10,10 @@
 
 
 ## ML Projects/Notebooks
+
+
+
+#### References: 
+- Machine Learning by Andrew Ng
+- An Introduction to Statistical Learning with Applications in Python
+- Approaching (Almost) Any Machine Learning Problems - Abhishek Thakur
