@@ -10,6 +10,9 @@
 
 
 ## ML Projects/Notebooks
+- Divorce Prediction
+- Gamma Hadron Classification
+- Image Compression Using Clustering
 
 
 
