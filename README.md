@@ -15,6 +15,8 @@
 - Gamma Hadron Classification
 - Image Compression Using Clustering
 - Ridge Regression
+- Density Estimation: Psychological Experiments
+- Gaussian Mixture Model (GMM) with EM Algorithm
 
 
 
