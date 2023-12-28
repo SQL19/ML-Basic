@@ -11,8 +11,10 @@
 
 ## ML Projects/Notebooks
 - Divorce Prediction
+- Email Spam Classification
 - Gamma Hadron Classification
 - Image Compression Using Clustering
+- Ridge Regression
 
 
 
