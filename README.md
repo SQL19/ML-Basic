@@ -10,6 +10,7 @@
 
 
 ## ML Projects/Notebooks
+- Credit Risk Analysis
 - Divorce Prediction
 - Email Spam Classification
 - Gamma Hadron Classification
